@@ -1,4 +1,4 @@
-# CHCAA's Introduction to Python #
+# <span style="color:green">CHCAA's Introduction to Python</span> #
 
 ## Technicalities
 
