@@ -1,4 +1,4 @@
-# CHCAA's Introduction to Python #
+# CHCAA's Introduction to :snake: #
 
 ## Technicalities
 
