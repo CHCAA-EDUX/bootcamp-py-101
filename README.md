@@ -20,6 +20,16 @@ Swiss army knife solution irrespective of OS: install [Anaconda](https://www.ana
 
 This repository has the following directory structure:
 
+.
+├── dat
+│   ├── README.md
+│   └── series2d
+├── examples
+├── LICENSE.md
+├── README.md
+├── requirements.txt
+└── src
+
 ## Course overview and readings
 
 ## Contact details
