@@ -22,14 +22,14 @@ This repository has the following directory structure:
 
 ```
 .
-├── dat
+├── dat/
 │   ├── README.md
-│   └── series2d
-├── examples
+│   └── series2d/
+├── examples/
 ├── LICENSE.md
 ├── README.md
 ├── requirements.txt
-└── src
+└── src/
 ```
 
 ## Course overview and readings
