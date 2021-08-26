@@ -20,6 +20,7 @@ Swiss army knife solution irrespective of OS: install [Anaconda](https://www.ana
 
 This repository has the following directory structure:
 
+```
 .
 ├── dat
 │   ├── README.md
@@ -29,6 +30,7 @@ This repository has the following directory structure:
 ├── README.md
 ├── requirements.txt
 └── src
+```
 
 ## Course overview and readings
 
