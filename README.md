@@ -18,7 +18,7 @@ Swiss army knife solution irrespective of OS: install [Anaconda](https://www.ana
 ### Virtual environments
 ## Repo structure
 
-This repository has the following directory structure:
+This <span style="color:green">repository</span> has the following directory structure:
 
 ```
 .
